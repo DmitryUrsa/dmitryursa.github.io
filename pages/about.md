@@ -20,6 +20,9 @@ Currently in my development i am using:
 - Git
 - Wordpress, ModX
 
+You can contact me through telegram @DmitryUrsa
+{% include elements/button.html link="https://t.me/DmitryUrsa" text="Telegram" %}
+
 <div class="row">
 {% include about/timeline.html %}
 </div>
