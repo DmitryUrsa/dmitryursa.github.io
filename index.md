@@ -1,29 +1,28 @@
-# 🐻 Привет, это портфолио сделанно на Jekyll
-Так проще :)
+# 🐻 Hi, this is my simple portfolio!
+I am doing mostly WordPress stuff, but would like to work on frontend with js/react/angular :)
 
 ## Marshmallows Shop
-Клиент хотел расширить свой бизнес и продавать вещи не только в инстаграмме.
-Была создана нежная responsive тема для WordPress и связанна с WooCommerce.
-[Ссылка на сайт](https://marshmallows-shop.ru/)
+- HTML/CSS
+- Custom wordpress theme creation
+- WooCommerce integration
+- Plugins integration
+
+[Link](https://marshmallows-shop.ru/)
 ![Marshmallows Shop](https://raw.githubusercontent.com/DmitryUrsa/dmitryursa.github.io/master/marshmallows.png)
 
-## Борискин Лог
-Нужно было обновить сайт турбазы, был создан новый дизайн и тема для WP. Собачки! 🐶🐶🐶
-[Ссылка на сайт](http://boriskinlog.su/)
-![Борискин Лог](https://raw.githubusercontent.com/DmitryUrsa/dmitryursa.github.io/master/boriskinlog.png)
+## Boriskin Log
+🐶🐶🐶 Doggies!
+- HTML/CSS
+- Custom wordpress theme creation
+- Plugins integration
 
-## Жалюзи орг
-Сайт был нацелен на продажи жалюзи различной комплектации. По желанию заказчика все товары выставлены на одну страницу.
-[Ссылка на сайт](https://zhalyuzi.org/)
-![Жалюзи](https://raw.githubusercontent.com/DmitryUrsa/dmitryursa.github.io/master/zhaluyzi.png)
-
-## SaltyDays
-Простой сайт для соляной пещены в Москве. Посетители могут записаться на сеанс прямо на сайте.
-[Ссылка на сайт](https://saltydays.ru/)
-![SaltyDays](https://raw.githubusercontent.com/DmitryUrsa/dmitryursa.github.io/master/saltydays.png)
+[Link](http://boriskinlog.su/)
+![Boriskin Log](https://raw.githubusercontent.com/DmitryUrsa/dmitryursa.github.io/master/boriskinlog.png)
 
 ## Viziten
-Выдержанный дизайн. Тема WP для типографии.
+- HTML/CSS
+- Custom wordpress theme creation
+
 [Ссылка на сайт](https://viziten.ru/)
 ![Viziten](https://raw.githubusercontent.com/DmitryUrsa/dmitryursa.github.io/master/viziten.png)
 
