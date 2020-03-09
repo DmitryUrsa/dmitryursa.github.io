@@ -3,8 +3,7 @@ title               : Dmitry Ursa
 description         : >-
                       "Hi, i do web stuff! Love flexbox, WordPress and clean js"
 baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : DmitryUrsa     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : DmitryUrsa
+repository          : dmitryursa.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 
 
 ### Plugins ###
